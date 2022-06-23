@@ -8,12 +8,11 @@ yaozp
 # 使用说明
 python3.8环境
 需要使用到的库
-from pyquery import PyQuery as pq
-import requests
-import time
-import re
-import json
-import subprocess
+pyquery 
+requests
+time
+rejson
+subprocess
 
 这里还使用到一个工具<ffmpeg>，FFmpeg是一套可以用来记录、转换数字音频、视频，并能将其转化为流的开源计算机程序。
 下载之后解压即可，但是需要你设置环境变量。
